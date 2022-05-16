@@ -18,7 +18,7 @@ import CustomButton from "./components/CustomButton";
 import logo from "./assets/logo.png";
 import "./App.css";
 
-const initialTime = 5 * 1000; // initial time in milliseconds, defaults to 60000
+const initialTime = 3 * 1000; // initial time in milliseconds, defaults to 60000
 const interval = 1000; // interval to change remaining time amount, defaults to 1000
 
 function App() {
@@ -30,7 +30,7 @@ function App() {
       // navigate to cmis after 10 seconds
       setTimeout(() => {
         window.location.assign("http://cmis.ombudsman.go.ke");
-      }, 10000);
+      }, 6000);
     }
   }, [isConfetti]);
 
