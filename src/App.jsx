@@ -102,7 +102,7 @@ function App() {
                   gutterBottom
                   align="center"
                 >
-                  COMPLAINTS MANAGEMENT SYSTEM <br />
+                  COMPLAINTS MANAGEMENT INFORMATION SYSTEM <br />
                   (CMIS)
                 </Typography>
 
