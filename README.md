@@ -1,12 +1,15 @@
-# LAUNCH OF THE COMPLAINTS MANAGEMENT INFORMATION SYSTEM (CMIS)
+<h1 align='center'>
+LAUNCH OF THE COMPLAINTS MANAGEMENT INFORMATION SYSTEM (CMIS)
+</h1>
 
-## COMMISSION ON ADMINISTRATIVE JUSTICE
+<h2 align='center'> COMMISSION ON ADMINISTRATIVE JUSTICE <br/> (OFFICE OF THE OMBUDSMAN)</h2>
 
-### OFFICE OF THE OMBUDSMAN
-
+<p align='center'>
 24th May 2022 Marks the Official Launch of the Complaints Management Information System.
+<br/>
 This launch was made possible through the efforts of [Brian Mwendwa](https://github.com/mwendwa99) in maintaining the
 codebase and making the system usable to the general public.
+</p>
 
 Author: [Brian Mwendwa](https://github.com/mwendwa99)
 Email: [brianmwendwa.mu@gmail.com](mailto:brianmwendwa.mu@gmail.com)
