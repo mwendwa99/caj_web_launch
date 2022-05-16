@@ -14,9 +14,7 @@ codebase and making the system usable to the general public.
 Author: [Brian Mwendwa](https://github.com/mwendwa99)
 Date: 24th May 2022
 <br/>
-
 Email: [brianmwendwa.mu@gmail.com](mailto:brianmwendwa.mu@gmail.com)
 <br/>
-
 LinkedIn: [Brian Mwendwa](https://www.linkedin.com/in/brian-mwendwa-25326a173/)
 <br/>
