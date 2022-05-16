@@ -5,9 +5,9 @@ LAUNCH OF THE COMPLAINTS MANAGEMENT INFORMATION SYSTEM (CMIS)
 <h2 align='center'> COMMISSION ON ADMINISTRATIVE JUSTICE <br/> (OFFICE OF THE OMBUDSMAN)</h2>
 
 <p align='center'>
-24th May 2022 Marks the Official Launch of the **[EFF] Complaints Management Information System ** <http://cmis.ombudsman.go.ke/>.
+24th May 2022 Marks the Official Launch of the <a href="http://cmis.ombudsman.go.ke" target="_blank"><strong>Complaints Management Information System </strong></a>
 <br/>
-  This launch was made possible through the efforts of <a href="https://github.com/mwendwa99"> <strong> Brian Mwendwa <strong> </a> in maintaining the
+  This launch was made possible through the efforts of <a href="https://github.com/mwendwa99" target="_blank">Brian Mwendwa</a> in maintaining the
 codebase and making the system usable to the general public.
 </p>
 
