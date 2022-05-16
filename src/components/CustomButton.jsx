@@ -1,8 +1,21 @@
 import { Button } from "@mui/material";
 
-export default function CustomButton({ title, size, variant, style, link }) {
+export default function CustomButton({
+  title,
+  size,
+  disabled,
+  variant,
+  style,
+  link,
+}) {
   return (
-    <Button sx={style} size={size} variant={variant} onClick={link}>
+    <Button
+      disabled={disabled}
+      sx={style}
+      size={size}
+      variant={variant}
+      onClick={link}
+    >
       {title}
     </Button>
   );
