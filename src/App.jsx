@@ -56,8 +56,6 @@ function App() {
             container
             sx={{
               display: "flex",
-              alignItems: "center",
-              display: "flex",
               justifyContent: "center",
               alignItems: "center",
             }}
@@ -70,7 +68,7 @@ function App() {
                   boxShadow: "0px 4px 4px rgba(0, 0, 0, 0.25)",
                   borderRadius: "20px",
                   height: "500px",
-                  widht: "340px",
+                  width: "340px",
                   display: "flex",
                   flexDirection: "column",
                   justifyContent: "space-between",
