@@ -7,7 +7,7 @@ LAUNCH OF THE COMPLAINTS MANAGEMENT INFORMATION SYSTEM (CMIS)
 <p align='center'>
 24th May 2022 Marks the Official Launch of the **[EFF] Complaints Management Information System ** <http://cmis.ombudsman.go.ke/>.
 <br/>
-This launch was made possible through the efforts of **[EFF] Brian Mwendwa ** <https://github.com/mwendwa99> in maintaining the
+  This launch was made possible through the efforts of <a href="https://github.com/mwendwa99"> <strong> Brian Mwendwa <strong> </a> in maintaining the
 codebase and making the system usable to the general public.
 </p>
 
