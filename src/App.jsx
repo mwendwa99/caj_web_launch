@@ -90,7 +90,7 @@ function App() {
                 </IconButton>
                 <Typography
                   variant="subtitle1"
-                  sx={{ fontWeight: 700 }}
+                  sx={{ fontWeight: 700, fontSize: "1.5rem" }}
                   gutterBottom
                   align="center"
                 >
